@@ -11,7 +11,4 @@ I am a person who loves own job and looks for an improvement in it. Each enhance
 - good time manager.
 
 # Personal info
-![cell][def]
-
-
-[def]: https://img.shields.io/badge/dotsenko.raif@gmail.com- blue
+email: dotsenko.raif@gmail.com
